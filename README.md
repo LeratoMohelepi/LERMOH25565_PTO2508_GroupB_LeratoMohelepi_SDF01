@@ -56,7 +56,7 @@
 
 - Tune in for more projects!
 
-## 💡 Next up
+## 💡 Next Step
 
 - Add some style with CSS.
 
