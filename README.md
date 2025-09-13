@@ -1,4 +1,4 @@
-# SDF01 Challenge: My First Repo Adventure! 🤗
+# My First Repo Adventure! 🤗
 
 # 👋 Hi, I'm Lerato Mohelepi
 
