@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Lerato Mohelepi
 
-💻Aspiring **Software Developer** | 🌟Passionate about building applicaton | 🌟Excite to learn and build cool projects
+💻Aspiring **Software Developer** | 🌟Passionate about building applicatons | 🌟Excite to learn and build cool projects
 
 ---
 
