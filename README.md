@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Lerato Mohelepi
 
-💻Aspiring **Software Developer** | 🌟Passionate about building applicatons
+💻Aspiring **Software Developer** | 🌟Passionate about building applicaton | 🌟Excite to learn and build cool projects
 
 ---
 
@@ -29,17 +29,31 @@
 
 ---
 
-## 🏆 Projects
+## 🏆 Featured Projects
 
 ### **1️⃣ SDF01 Challenge**
 
-🔹 **Description:** Create a new repository, add an **index.html** file, commit, push and clone the repo.
+🔹 index.html (VS code)
+🔹GitHub
+🔹README.md 
 
-🔹 ✅ **Status:** Completed
+
+✅ **Completed tasks**
+
+🔹Created a new repo
+🔹Added index.html file
+🔹Commited changes
+🔹Pushed to GitHub
+🔹Cloned my repo
 
 ---
 
 ## 📫 Let's Connect
 
 📌**GitHub:** https://github.com/LeratoMohelepi
+
 📧 Email: leratomohelepi5@gmail.com
+
+## 🌟**Motivation**
+
+- Learning to code is a journey, every challenge is just another chance to grow. 
