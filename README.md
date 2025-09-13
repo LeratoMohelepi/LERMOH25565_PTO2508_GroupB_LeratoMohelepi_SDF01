@@ -58,9 +58,9 @@
 
 ## 💡 Next up
 
-🔹Add some style with CSS.
+- Add some style with CSS.
 
-🔹Start building bigger and cooler projects.
+- Start building bigger and cooler projects.
 
 ---
 
