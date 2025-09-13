@@ -9,7 +9,9 @@
 ##  About Me
 
 - ⚡Proactive, always learning, and excited to grow in the tech space.
+  
 - 🎓 Currently exploring **HTML and GitHub**
+  
 - 🎯Goal: To build impactful projects and collaborate with other developers
 
 ---
@@ -18,7 +20,7 @@
 
 **Currently learning:**
 
-- - ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-circle&logo=html5&logoColor=white),
+- ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-circle&logo=html5&logoColor=white),
 
 - ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-circle&logo=github)
 
@@ -34,19 +36,31 @@
 ### **1️⃣ SDF01 Challenge**
 
 🔹 index.html (VS code)
+
 🔹GitHub
+
 🔹README.md 
 
 
 ✅ **Completed tasks**
 
-🔹Created a new repo
-🔹Added index.html file
-🔹Commited changes
-🔹Pushed to GitHub
-🔹Cloned my repo
+🔹Created a new repo.
 
-- Tune in for more projects! 
+🔹Added index.html file.
+
+🔹Commited changes.
+
+🔹Pushed to GitHub.
+
+🔹Cloned my repo.
+
+- Tune in for more projects!
+
+## 💡 Next up
+
+🔹Add some style with CSS.
+
+🔹Start building bigger and cooler projects.
 
 ---
 
