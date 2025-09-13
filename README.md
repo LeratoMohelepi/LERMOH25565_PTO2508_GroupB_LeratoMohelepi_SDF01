@@ -1,8 +1,8 @@
-# SDF01 Challenge: Repository setup and workflow
+# SDF01 Challenge: My First Repo Adventure! 🤗
 
 # 👋 Hi, I'm Lerato Mohelepi
 
-💻Aspiring **Software Developer** | 🌟Passionate about building applicatons | 🌟Excited to learn and build cool projects
+💻Aspiring **Software Developer** | 🌟Passionate about building real-world applicatons | 🌟Excited to learn and build cool projects
 
 ---
 
@@ -45,6 +45,8 @@
 🔹Commited changes
 🔹Pushed to GitHub
 🔹Cloned my repo
+
+- Tune in for more projects! 
 
 ---
 
